@@ -1,2 +1,2 @@
 # Simon Game
-the game is about guess the no.
+the game is about guess the random no.
